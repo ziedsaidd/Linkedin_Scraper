@@ -1,6 +1,6 @@
 # LinkedIn Scraper
 
-This code permits the scraping of public linkedin profile informations for a given members name Entry and writes the found results in a given excel sheet.
+This code permits the scraping of public linkedin profile informations for a given members names Entry and writes the found results in a given excel sheet.
 
 ## Getting Started
 
